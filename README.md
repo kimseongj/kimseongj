@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+안녕하세요👏 George
+
+<img src="https://img.shields.io/badge/Xcode-F01000?style=flat-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F0080ff?style=flat-square&logo=Swift&logoColor=white"/>
